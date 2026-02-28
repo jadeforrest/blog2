@@ -1,4 +1,4 @@
-# Rubick.com Blog
+# Rubick.com Blog (note I've moved this repo to https://github.com/jadeforrest/blog
 
 This repository contains the source code for [rubick.com](https://www.rubick.com), a personal blog built with [Astro](https://astro.build).
 
